@@ -6,7 +6,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	top: 26%;
-	background-image:url('file:///C:/Users/oberm/OneDrive/Desktop/CORN/1DeepFieldPixellated.png');
+	background-image:url('./ASSETS/1DeepFieldPixellated.png');
 	animation: backpos1 150s infinite;
 	background-size: cover;
 }
@@ -42,7 +42,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2aInvisible {
@@ -61,7 +61,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2a2 {
@@ -71,7 +71,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2a3 {
@@ -81,7 +81,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2a4 {
@@ -91,7 +91,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2a5 {
@@ -101,7 +101,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -112,7 +112,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2b1 {
@@ -122,7 +122,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2b2 {
@@ -132,7 +132,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2b3 {
@@ -142,7 +142,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2b4 {
@@ -152,7 +152,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2b5 {
@@ -162,7 +162,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -174,7 +174,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2c1 {
@@ -184,7 +184,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2c2 {
@@ -194,7 +194,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2c3 {
@@ -204,7 +204,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2c4 {
@@ -214,7 +214,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2c5 {
@@ -224,7 +224,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -237,7 +237,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2d1 {
@@ -247,7 +247,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2d2 {
@@ -257,7 +257,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2d3 {
@@ -267,7 +267,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2d4 {
@@ -277,7 +277,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2d5 {
@@ -287,7 +287,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -298,7 +298,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2e1 {
@@ -308,7 +308,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2e2 {
@@ -318,7 +318,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2e3 {
@@ -328,7 +328,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2e4 {
@@ -338,7 +338,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2e5 {
@@ -348,7 +348,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -359,7 +359,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2f1 {
@@ -369,7 +369,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2f2 {
@@ -379,7 +379,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2f3 {
@@ -389,7 +389,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2f4 {
@@ -399,7 +399,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2f5 {
@@ -409,7 +409,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -421,7 +421,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2g1 {
@@ -431,7 +431,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2g2 {
@@ -441,7 +441,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2g3 {
@@ -451,7 +451,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2g4 {
@@ -461,7 +461,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2g5 {
@@ -471,7 +471,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -482,7 +482,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 60s steps(8);
 }
 #spaceplanter2h1 {
@@ -492,7 +492,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 45s steps(8);
 }
 #spaceplanter2h2 {
@@ -502,7 +502,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 40s steps(8);
 }
 #spaceplanter2h3 {
@@ -512,7 +512,7 @@ animation: sprite 60s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 35s steps(8);
 }
 #spaceplanter2h4 {
@@ -522,7 +522,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 30s steps(8);
 }
 #spaceplanter2h5 {
@@ -532,7 +532,7 @@ display: inline-block;
 margin: 2px;
 height: 100px;
 width: 100px;
-background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 animation: sprite 25s steps(8);
 }
 
@@ -545,7 +545,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 60s steps(8);
 	}
 	#spaceplanter2i1 {
@@ -555,7 +555,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 45s steps(8);
 	}
 	#spaceplanter2i2 {
@@ -565,7 +565,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 40s steps(8);
 	}
 	#spaceplanter2i3 {
@@ -575,7 +575,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 35s steps(8);
 	}
 	#spaceplanter2i4 {
@@ -585,7 +585,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 30s steps(8);
 	}
 	#spaceplanter2i5 {
@@ -595,7 +595,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 25s steps(8);
 	}
 
@@ -607,7 +607,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 60s steps(8);
 	}
 	#spaceplanter2j1 {
@@ -617,7 +617,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 45s steps(8);
 	}
 	#spaceplanter2j2 {
@@ -627,7 +627,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 40s steps(8);
 	}
 	#spaceplanter2j3 {
@@ -637,7 +637,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 35s steps(8);
 	}
 	#spaceplanter2j4 {
@@ -647,7 +647,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 30s steps(8);
 	}
 	#spaceplanter2j5 {
@@ -657,7 +657,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 25s steps(8);
 	}
 
@@ -669,7 +669,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 60s steps(8);
 	}
 	#spaceplanter2k1 {
@@ -679,7 +679,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 45s steps(8);
 	}
 	#spaceplanter2k2 {
@@ -689,7 +689,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 40s steps(8);
 	}
 	#spaceplanter2k3 {
@@ -699,7 +699,7 @@ animation: sprite 25s steps(8);
 		margin: 2px;
 		height: 100px;
 		width: 100px;
-		background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+		background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 		animation: sprite 35s steps(8);
 	}
 	#spaceplanter2k4 {
@@ -709,7 +709,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 30s steps(8);
 	}
 	#spaceplanter2k5 {
@@ -719,7 +719,7 @@ animation: sprite 25s steps(8);
 	margin: 2px;
 	height: 100px;
 	width: 100px;
-	background: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanterSpriteSheeta.png");
+	background: url("./ASSETS/TilePlanterSpriteSheeta.png");
 	animation: sprite 25s steps(8);
 	}
 
@@ -1181,7 +1181,7 @@ top: -500px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Tile.png");
+	background-image: url("./ASSETS/Tile.png");
 	background-size: cover;
 }
 #TileNightstand {
@@ -1191,7 +1191,7 @@ top: -500px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileNightStand.png");
+	background-image: url("./ASSETS/TileNightStand.png");
 	background-size: cover;
 }
 
@@ -1202,7 +1202,7 @@ top: -500px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Toilet.png");
+	background-image: url("./ASSETS/Toilet.png");
 	background-size: cover;
 }
 
@@ -1213,7 +1213,7 @@ top: -500px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Dresser.png");
+	background-image: url("./ASSETS/Dresser.png");
 	background-size: cover;
 }
 #TileFridge {
@@ -1223,7 +1223,7 @@ top: -500px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileFridge.png");
+	background-image: url("./ASSETS/TileFridge.png");
 	background-size: cover;
 }
 
@@ -1234,7 +1234,7 @@ top: -500px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileSafe.png");
+	background-image: url("./ASSETS/TileSafe.png");
 	background-size: cover;
 }
 #code1 {	text-align: center;
@@ -1277,7 +1277,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileCounter.png");
+	background-image: url("./ASSETS/TileCounter.png");
 	background-size: cover;
 }
 
@@ -1288,7 +1288,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/CropMachine1.png");
+	background-image: url("./ASSETS/CropMachine1.png");
 	background-size: cover;
 }
 
@@ -1299,7 +1299,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/CropMachine2.png");
+	background-image: url("./ASSETS/CropMachine2.png");
 	background-size: cover;
 }
 #spaceCrop3 {
@@ -1309,7 +1309,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/CropMachine3.png");
+	background-image: url("./ASSETS/CropMachine3.png");
 	background-size: cover;
 }
 #spaceCrop4 {
@@ -1319,7 +1319,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/CropMachine4.png");
+	background-image: url("./ASSETS/CropMachine4.png");
 	background-size: cover;
 }
 #spaceCrop5 {
@@ -1329,7 +1329,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/CropMachine5.png");
+	background-image: url("./ASSETS/CropMachine5.png");
 	background-size: cover;
 }
 #spaceCrop6 {
@@ -1339,7 +1339,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/CropMachine6.png");
+	background-image: url("./ASSETS/CropMachine6.png");
 	background-size: cover;
 }
 #AutoHarvestOff {
@@ -1349,7 +1349,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/AutoHarvestOff.png");
+	background-image: url("./ASSETS/AutoHarvestOff.png");
 	background-size: cover;
 }
 #AutoHarvestOn {
@@ -1359,7 +1359,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/AutoHarvestOn.png");
+	background-image: url("./ASSETS/AutoHarvestOn.png");
 	background-size: cover;
 }
 
@@ -1370,7 +1370,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/DoubleFuelOff.png");
+	background-image: url("./ASSETS/DoubleFuelOff.png");
 	background-size: cover;
 }
 #DoubleFuelOn {
@@ -1380,7 +1380,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/DoubleFuelOn.png");
+	background-image: url("./ASSETS/DoubleFuelOn.png");
 	background-size: cover;
 }
 #DoubleFuelOff {
@@ -1390,7 +1390,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/DoubleFuelOff.png");
+	background-image: url("./ASSETS/DoubleFuelOff.png");
 	background-size: cover;
 }
 #Armor1 {
@@ -1400,7 +1400,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Armor1.png");
+	background-image: url("./ASSETS/Armor1.png");
 	background-size: cover;
 }
 #Armor2 {
@@ -1410,7 +1410,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Armor2.png");
+	background-image: url("./ASSETS/Armor2.png");
 	background-size: cover;
 }
 #Armor3 {
@@ -1420,7 +1420,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Armor3.png");
+	background-image: url("./ASSETS/Armor3.png");
 	background-size: cover;
 }
 #Armor4 {
@@ -1430,7 +1430,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Armor4.png");
+	background-image: url("./ASSETS/Armor4.png");
 	background-size: cover;
 }
 #Armor5 {
@@ -1440,7 +1440,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Armor5.png");
+	background-image: url("./ASSETS/Armor5.png");
 	background-size: cover;
 }
 #Armor6 {
@@ -1450,7 +1450,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Armor6.png");
+	background-image: url("./ASSETS/Armor6.png");
 	background-size: cover;
 }
 
@@ -1461,7 +1461,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Weapons1.png");
+	background-image: url("./ASSETS/Weapons1.png");
 	background-size: cover;
 }
 #Weapons2 {
@@ -1471,7 +1471,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Weapons2.png");
+	background-image: url("./ASSETS/Weapons2.png");
 	background-size: cover;
 }
 #Weapons3 {
@@ -1481,7 +1481,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Weapons3.png");
+	background-image: url("./ASSETS/Weapons3.png");
 	background-size: cover;
 }
 #Weapons4 {
@@ -1491,7 +1491,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Weapons4.png");
+	background-image: url("./ASSETS/Weapons4.png");
 	background-size: cover;
 }
 #Weapons5 {
@@ -1501,7 +1501,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Weapons5.png");
+	background-image: url("./ASSETS/Weapons5.png");
 	background-size: cover;
 }
 #Weapons6 {
@@ -1511,7 +1511,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Weapons6.png");
+	background-image: url("./ASSETS/Weapons6.png");
 	background-size: cover;
 }
 
@@ -1522,7 +1522,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/ShipHealth1.png");
+	background-image: url("./ASSETS/ShipHealth1.png");
 	background-size: cover;
 }
 #spaceShipHealth2 {
@@ -1532,7 +1532,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/ShipHealth2.png");
+	background-image: url("./ASSETS/ShipHealth2.png");
 	background-size: cover;
 }
 #spaceShipHealth3 {
@@ -1542,7 +1542,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/ShipHealth3.png");
+	background-image: url("./ASSETS/ShipHealth3.png");
 	background-size: cover;
 }
 #spaceShipHealth4 {
@@ -1552,7 +1552,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/ShipHealth4.png");
+	background-image: url("./ASSETS/ShipHealth4.png");
 	background-size: cover;
 }
 #spaceShipHealth5 {
@@ -1562,7 +1562,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/ShipHealth5.png");
+	background-image: url("./ASSETS/ShipHealth5.png");
 	background-size: cover;
 }
 #spaceShipHealth6 {
@@ -1572,7 +1572,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/ShipHealth6.png");
+	background-image: url("./ASSETS/ShipHealth6.png");
 	background-size: cover;
 }
 
@@ -1584,7 +1584,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileBed.png");
+	background-image: url("./ASSETS/TileBed.png");
 	background-size: cover;
 }
 
@@ -1595,7 +1595,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileCockpit.png");
+	background-image: url("./ASSETS/TileCockpit.png");
 	background-size: cover;
 }
 
@@ -1606,7 +1606,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileRugLeft.png");
+	background-image: url("./ASSETS/TileRugLeft.png");
 	background-size: cover;
 }
 
@@ -1617,7 +1617,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileRugRight.png");
+	background-image: url("./ASSETS/TileRugRight.png");
 	background-size: cover;
 }
 
@@ -1628,7 +1628,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileRugUp.png");
+	background-image: url("./ASSETS/TileRugUp.png");
 	background-size: cover;
 }
 
@@ -1639,7 +1639,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TileRugDown.png");
+	background-image: url("./ASSETS/TileRugDown.png");
 	background-size: cover;
 }
 
@@ -1650,7 +1650,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1661,7 +1661,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1672,7 +1672,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1683,7 +1683,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1694,7 +1694,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1705,7 +1705,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1716,7 +1716,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1727,7 +1727,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 
@@ -1738,7 +1738,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 #spaceplanter10 {	
@@ -1748,7 +1748,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 #spaceplanter11 {	
@@ -1758,7 +1758,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/TilePlanter.png");
+	background-image: url("./ASSETS/TilePlanter.png");
 	background-size: cover;
 }
 #spacePlanterNo1 {	
@@ -1768,7 +1768,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Tile.png");
+	background-image: url("./ASSETS/Tile.png");
 	background-size: cover;
 }
 #spacePlanterNo2 {	
@@ -1778,7 +1778,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Tile.png");
+	background-image: url("./ASSETS/Tile.png");
 	background-size: cover;
 }
 #spacePlanterNo3 {	
@@ -1788,7 +1788,7 @@ height: 30px;
 	height: 100px; 
 	margin: 2px;
 	width: 100px;
-	background-image: url("file:///C:/Users/oberm/OneDrive/Desktop/CORN/Tile.png");
+	background-image: url("./ASSETS/Tile.png");
 	background-size: cover;
 }
 
